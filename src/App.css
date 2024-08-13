@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.main_title {
+  font-family: 'Times New Roman', serif;
+  font-weight: bold;
+  font-size: 4vh;
+}
+
+.main_title_2 {
+  font-family: 'Times New Roman', serif;
+  font-weight: bold;
+  font-size: 4vh;
+  text-align: left;
+  margin-top: 25px;
+}
+
+.main_content_2 {
+  font-family: 'Times New Roman', serif;
+  font-weight: bold;
+  font-size: 3vh;
+  text-align: left;
+  margin-top: 5px;
+}
+
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
